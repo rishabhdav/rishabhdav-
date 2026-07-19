@@ -47,6 +47,24 @@
 
 ---
 
+---
+
+### 🏆 Coding Platform Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rishabhtri?theme=dark&font=Fira%20Code&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-card.vercel.app/?username=rishabhtri&theme=dark&border_color=FF6B6B&text_color=FFFFFF" />
+</p>
+
+<p align="center">
+  <img src="https://codechef-readme-stats.vercel.app/rating/bright_card_63?theme=dark" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="left">
