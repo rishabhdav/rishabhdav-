@@ -131,8 +131,6 @@ I'm **Rishabh Tripathi**, a passionate **Java Full Stack Developer** focused on 
 
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>
@@ -149,15 +147,6 @@ I'm **Rishabh Tripathi**, a passionate **Java Full Stack Developer** focused on 
 
 # 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
