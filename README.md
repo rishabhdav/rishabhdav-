@@ -70,10 +70,6 @@
 ### 🏆 Coding Platform Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/rishabhtri?theme=dark&font=Fira%20Code&ext=heatmap" />
-</p>
-
-<p align="center">
   <img src="https://leetcode-stats-card.vercel.app/?username=rishabhtri&theme=dark&border_color=FF6B6B&text_color=FFFFFF" />
 </p>
 
@@ -87,22 +83,22 @@
 
 <p align="left">
   <a href="https://codolio.com/profile/mHlpjSWV" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/rishabh-tripathi-096833284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
   <a href="https://leetcode.com/u/rishabhtri/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/rishabhtricywd" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge" />
   </a>
   <a href="https://www.codechef.com/users/bright_card_63" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge" />
   </a>
   <a href="https://www.hackerrank.com/profile/rishabhtripath49" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge" />
   </a>
 </p>
 
