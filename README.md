@@ -507,17 +507,30 @@ Designed and implemented a data warehouse for analytical reporting using SQL, di
 </a>
 
 </td>
-
-<td align="center" width="25%">
-
-<a href="https://codolio.com/profile/mHlpjSWV">
-<img src="https://img.shields.io/badge/Codolio-Coding%20Dashboard-6C5CE7?style=for-the-badge"/>
-</a>
-
-</td>
-
 </tr>
 </table>
+
+## 🚀 Codolio Dashboard
+
+<p align="center">
+
+<a href="https://codolio.com/profile/mHlpjSWV">
+
+<img src="https://img.shields.io/badge/🏆_Competitive_Programming-Dashboard-6C5CE7?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+**Track all my coding profiles in one place**
+
+LeetCode • GeeksforGeeks • CodeChef • HackerRank • GitHub
+
+</p>
+
+
 
 <a href="https://www.hackerrank.com/profile/rishabhtripath49">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
