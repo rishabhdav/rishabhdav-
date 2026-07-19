@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishabhdav&style=for-the-badge&color=FF6B6B" alt="profile views" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
 </p>
 
@@ -41,6 +37,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhdav&theme=redical&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=F7B32B&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhdav&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishabhdav/rishabhdav/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ### 🌐 Connect with Me
@@ -51,6 +55,18 @@
   </a>
   <a href="https://www.linkedin.com/in/rishabh-tripathi-096833284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/rishabhtri/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/rishabhtricywd" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/bright_card_63" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/rishabhtripath49" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
