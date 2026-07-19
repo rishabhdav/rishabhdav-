@@ -62,20 +62,39 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhdav&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=F7B32B&currStreakLabel=4ECDC4" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhdav&theme=redical&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=F7B32B&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhdav&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishabhdav/rishabhdav/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
 ### 🏆 Coding Platform Stats
 
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rishabhtri?theme=dark&font=Fira%20Code" />
+</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rishabhtri?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
 <p align="center">
-  <img src="https://gfgstatscard.vercel.app/rishabhtricywd" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Frishabhtricywd%2Fprofile&label=GFG%20Score&query=%24.codingScore&color=2F8D46&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgfg-stats.tashif.codes%2Frishabhtricywd%2Fprofile&label=Problems%20Solved&query=%24.totalProblemsSolved&color=2F8D46&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </p>
 
 <p align="center">
