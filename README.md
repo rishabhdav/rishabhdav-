@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cp-logo.vercel.app/codechef/bright_card_63" />
+  <img src="https://cp-logo.netlify.app/codechef/bright_card_63" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
