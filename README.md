@@ -26,11 +26,11 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a final-year **B.Tech Computer Science** student who builds backend systems the way I'd want to maintain them — clean layers, sensible security, and APIs that don't surprise their consumers.
+Final-year **B.Tech Computer Science** student who builds backend systems the way I'd want to maintain them — clean layers, sensible security, predictable APIs.
 
-Most of my work sits in the **Java + Spring Boot** ecosystem — designing REST APIs, handling authentication with **JWT & Spring Security**, and modeling data with **Hibernate/JPA** on MySQL. I can also ship the frontend in **React** when a project needs one.
+Primary stack: **Java + Spring Boot** — REST API design, JWT/Spring Security authentication, and Hibernate/JPA on MySQL. I ship React on the frontend when a project needs one.
 
-Right now I'm preparing for **SDE interviews** — splitting time between backend projects, DSA, and System Design fundamentals.
+Currently prepping for **SDE interviews**: DSA (500+ solved), Core Java internals, and System Design fundamentals.
 
 </td>
 <td width="40%" valign="top">
@@ -92,16 +92,24 @@ looking_for: SDE / Backend Roles
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=38BDF8" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishabhdav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=38BDF8&cache_seconds=86400" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhdav&theme=tokyonight&hide_border=true&background=0B1120&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhdav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1&cache_seconds=86400" alt="Top Languages" width="48%"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhdav&theme=react-dark&hide_border=true&bg_color=0B1120&color=38BDF8&line=38BDF8&point=E2E8F0" width="97%" alt="Contribution Graph"/>
 
 </div>
+
+<!--
+  Note: these widgets run on the shared public github-readme-stats.vercel.app instance,
+  which occasionally goes down (503 / rate limits) because it's used by thousands of profiles.
+  A cache_seconds param has been added above to reduce refresh frequency and dodge some rate limits.
+  If cards still don't render reliably, self-host your own instance:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:1E293B&height=2&width=1000" width="100%"/>
 
@@ -114,7 +122,7 @@ looking_for: SDE / Backend Roles
 <td width="100%">
 
 ### 🛒 E-Commerce Platform
-**A full stack e-commerce application covering the complete purchase flow — catalog, cart, checkout, and payments.**
+**Full-stack e-commerce app — catalog, cart, checkout, payments — with JWT-secured REST APIs and Stripe integration.**
 
 **Architecture**
 ```
@@ -144,7 +152,7 @@ React (Client) → Spring Boot REST API → Spring Security (JWT Auth) → MySQL
 <td width="100%">
 
 ### 📝 Blog Application REST API
-**A backend-focused blogging platform built around clean, well-documented API design.**
+**Backend-first blogging API with role-based JWT auth, Hibernate/JPA persistence, and Swagger docs — testable with zero frontend.**
 
 **Architecture**
 ```
@@ -174,7 +182,7 @@ Client → Spring Boot REST Controllers → Spring Security (JWT) → Hibernate/
 <td width="100%">
 
 ### 📊 SQL Data Warehouse Analytics
-**A data warehousing project focused on structuring raw data for fast, reliable analytical queries.**
+**Star-schema data warehouse with ETL pipelines and T-SQL reporting, built to keep query performance predictable at scale.**
 
 **Architecture**
 ```
