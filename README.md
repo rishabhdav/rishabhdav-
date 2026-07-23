@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F172A,100:1E293B&height=200&section=header&text=Rishabh%20Tripathi&fontSize=42&fontColor=E2E8F0&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot&descAlignY=54&descSize=18&descColor=38BDF8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0F172A,100:1E293B&height=1784771224&section=header&text=Rishabh%20Tripathi&fontSize=42&fontColor=E2E8F0&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot&descAlignY=54&descSize=18&descColor=38BDF8&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/rishabh-tripathi-096833284/">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Java+%2F+Spring+Boot;Building+REST+APIs+that+don't+fall+over;500%2B+DSA+Problems+Solved;Final-Year+CS+Student+%40+JIIT+Noida" />
@@ -194,6 +194,6 @@ Ongoing DSA practice repo — problem-wise Java solutions across arrays, trees, 
 
 *Building reliable backend systems, one commit at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:0F172A,100:0B1120&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:0F172A,100:0B1120&height=1784771224&section=footer"/>
 
 </div>
