@@ -233,7 +233,7 @@ Also solving on [neetcode-submissions](https://github.com/rishabhdav/neetcode-su
 
 <div align="center">
 
-<img src="footer.svg" width="100%"/>
+<img src=".github/footer.svg" width="100%"/>
 
 ### Let's Connect
 
